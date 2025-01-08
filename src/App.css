@@ -1,0 +1,90 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #e0f7fa;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 2;
+  text-align: center;
+  margin: 0 20px;
+}
+
+.title {
+  color: #007bff;
+}
+
+.achievement-section {
+  width: 300px;
+  text-align: left;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.leaderboard {
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: left;
+}
+
+.achievement-unlocked {
+  color: green;
+}
+
+.achievement-locked {
+  color: red;
+}
+
+.option-button {
+  margin: 5px;
+  padding: 10px;
+  background-color: white;
+}
+
+.option-button.selected {
+  background-color: lightblue;
+}
+
+/* 限制文字顯示範圍並啟用換行 */
+.achievement-section,
+.leaderboard {
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: left;
+  word-wrap: break-word; /* 啟用單詞自動換行 */
+  overflow-wrap: break-word; /* 防止長字串超出容器 */
+  white-space: normal; /* 避免強制單行顯示 */
+}
+
+/* 錢包地址過長處理 */
+.main-content p {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+/* 成就列表項目樣式 */
+.achievement-section ul li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+/* 排行榜項目樣式 */
+.leaderboard ul li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+

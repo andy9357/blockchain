@@ -1,0 +1,212 @@
+[
+  {
+    "question": "1 的平方是多少？",
+    "options": ["2", "0", "無法計算", "1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "2 的平方是多少？",
+    "options": ["2", "4", "1", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "sin(π/2) 的值是多少？",
+    "options": ["0", "-1", "1", "√3/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "cos(π) 的值是多少？",
+    "options": ["1", "-1", "√2/2", "0"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "tan(π/4) 的值是多少？",
+    "options": ["1", "無窮大", "0", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "e^0 的值是多少？",
+    "options": ["e", "1", "無窮大", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "ln(1) 的值是多少？",
+    "options": ["-1", "0", "1", "無法計算"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "√(16) 的值是多少？",
+    "options": ["4", "0", "8", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "π 的近似值是多少？",
+    "options": ["3", "3.14", "3.5", "3.1"],
+    "correctAnswer": "3.14"
+  },
+  {
+    "question": "x^2 的導數是多少？",
+    "options": ["x", "2x", "2", "x^2"],
+    "correctAnswer": "2x"
+  },
+  {
+    "question": "x^3 的導數是多少？",
+    "options": ["3x", "x", "3x^2", "x^3"],
+    "correctAnswer": "3x^2"
+  },
+  {
+    "question": "sin(x) 的導數是多少？",
+    "options": ["cos(x)", "-sin(x)", "-cos(x)", "tan(x)"],
+    "correctAnswer": "cos(x)"
+  },
+  {
+    "question": "cos(x) 的導數是多少？",
+    "options": ["tan(x)", "-sin(x)", "sin(x)", "-cos(x)"],
+    "correctAnswer": "-sin(x)"
+  },
+  {
+    "question": "tan(x) 的導數是多少？",
+    "options": ["sin^2(x)", "sec^2(x)", "cos^2(x)", "無法計算"],
+    "correctAnswer": "sec^2(x)"
+  },
+  {
+    "question": "sin^2(x) + cos^2(x) 的值是多少？",
+    "options": ["1", "sin(x)", "0", "cos(x)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "log(100) 的值是多少？",
+    "options": ["2", "10", "100", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "2^3 的值是多少？",
+    "options": ["6", "8", "10", "4"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "x^0 的值是多少？",
+    "options": ["0", "-1", "1", "x"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "1 的階乘是多少？",
+    "options": ["1", "無限大", "0", "無法計算"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "3 的階乘是多少？",
+    "options": ["12", "3", "9", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "√(9) 的值是多少？",
+    "options": ["0", "3", "9", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "log(1) 的值是多少？",
+    "options": ["無限大", "0", "無法計算", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "x^2 - 4 = 0 的解是什麼？",
+    "options": ["x=2 或 x=-2", "x=4", "x=0", "x=-4"],
+    "correctAnswer": "x=2 或 x=-2"
+  },
+  {
+    "question": "1/2 的倒數是多少？",
+    "options": ["2", "-2", "1/2", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "2x = 8 的解是什麼？",
+    "options": ["x=8", "x=2", "x=4", "x=16"],
+    "correctAnswer": "x=4"
+  },
+  {
+    "question": "x^2 + x - 6 = 0 的解是什麼？",
+    "options": ["x=6 或 x=-1", "x=3 或 x=-2", "x=2 或 x=-3", "x=1 或 x=-6"],
+    "correctAnswer": "x=2 或 x=-3"
+  },
+  {
+    "question": "矩形的面積公式是什麼？",
+    "options": ["長×寬", "寬×高", "周長", "長×高"],
+    "correctAnswer": "長×寬"
+  },
+  {
+    "question": "圓的面積公式是什麼？",
+    "options": ["πd", "πr^2", "無法計算", "2πr"],
+    "correctAnswer": "πr^2"
+  },
+  {
+    "question": "三角形內角和是多少度？",
+    "options": ["180", "90", "無窮大", "360"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "x^3 - 27 = 0 的解是什麼？",
+    "options": ["x=9", "x=-9", "x=3", "x=-3"],
+    "correctAnswer": "x=3"
+  },
+  {
+    "question": "圓周長公式是什麼？",
+    "options": ["πr^2", "2πr", "r/2", "πd"],
+    "correctAnswer": "2πr"
+  },
+  {
+    "question": "5 的平方是多少？",
+    "options": ["5", "15", "10", "25"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "10 的倒數是多少？",
+    "options": ["1/10", "-10", "0", "10"],
+    "correctAnswer": "1/10"
+  },
+  {
+    "question": "數列 1, 3, 5, 7, 9 的通項公式是什麼？",
+    "options": ["n+2", "n-1", "2n", "2n-1"],
+    "correctAnswer": "2n-1"
+  },
+  {
+    "question": "x^4 的導數是多少？",
+    "options": ["4x^2", "x^3", "x^4", "4x^3"],
+    "correctAnswer": "4x^3"
+  },
+  {
+    "question": "ln(e) 的值是多少？",
+    "options": ["0", "無窮大", "1", "e"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "x^3 + x = 0 的解是什麼？",
+    "options": ["x=0 或 x=±1", "x=0 或 x=±i", "x=0", "x=±1"],
+    "correctAnswer": "x=0 或 x=±1"
+  },
+  {
+    "question": "cos(0) 的值是多少？",
+    "options": ["0", "1", "-1", "無法計算"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "sin(0) 的值是多少？",
+    "options": ["√3/2", "-1", "1", "0"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "tan(π/6) 的值是多少？",
+    "options": ["1", "無窮大", "√3", "1/√3"],
+    "correctAnswer": "1/√3"
+  },
+  {
+    "question": "x^2 + 4x + 4 = 0 的解是什麼？",
+    "options": ["x=-2", "x=2", "x=0", "x=4"],
+    "correctAnswer": "x=-2"
+  },
+  {
+    "question": "等差數列的通項公式是什麼？",
+    "options": ["a_n = a_1 × n", "a_n = a_1 + (n-1)d", "a_n = a_1 × d", "無法計算"],
+    "correctAnswer": "a_n = a_1 + (n-1)d"
+  }
+]

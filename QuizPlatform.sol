@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-//引入 OpenZeppelin 提供的 ERC20 合約標準庫
+//引入 OpenZeppelin 提供的 ERC20 合約標準庫(如果沒有請下載 指令為"npm install @openzeppelin/contracts" )
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract QuizPlatform is ERC20 {

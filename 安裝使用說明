@@ -1,0 +1,19 @@
+1. 官網下載node.js並安裝 LTS 版本(18.x的版本)
+https://nodejs.org/ 
+# 驗證安裝
+node -v
+npm -v
+
+2.創建 React 專案(18.x)
+npx create-react-app gamified-learning
+cd gamified-learning
+並安裝 Web3.js(v1.8.x )
+npm install web3
+
+3. MetaMask
+4. React 和 React-Scripts
+React: v18.x 或以上
+React-Scripts: v5.x 或以上（自動包含在 create-react-app 中）
+檢查版本：
+npm list react react-scripts
+

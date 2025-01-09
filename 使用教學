@@ -1,2 +1,6 @@
-打開 Remix IDE，將QuizPlatform.sol把合約程式碼寫入並且部署合約後 把合約地址和基金錢包的地址複製並寫入app.js裡的地方後
-開啟專案資料夾(gamified-learning)，在資料夾內開啟cmd輸入"npm start"即可開啟
+使用 Remix IDE 編寫智能合約(QuizPlatform.sol)，並連結MetaMask通過 Sepolia 測試網進行部署
+成功部署後，把合約地址和要發放代幣錢包的地址複製並寫入app.js裡的地方後
+開啟專案資料夾(gamified-learning)，在資料夾內開啟cmd輸入"npm start"即可開啟前端網頁
+後面可以切換自己想要回答問題的錢包，後按下連結錢包的按鈕，連結成功後可以開始回答問題獲得代幣
+
+如果看不到代幣的話，請打開MetaMask裡選擇tokens，按下Import Tokens填入合約地址按下加入即可

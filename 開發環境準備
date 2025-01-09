@@ -10,7 +10,8 @@ cd gamified-learning
 並安裝 Web3.js(v1.8.x )
 npm install web3
 
-3. MetaMask
+3. 請在瀏覽器插件加入MetaMask
+
 4. React 和 React-Scripts
 React: v18.x 或以上
 React-Scripts: v5.x 或以上（自動包含在 create-react-app 中）

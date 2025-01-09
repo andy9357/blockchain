@@ -1,2 +1,2 @@
-打開 Remix IDE，將QuizPlatform.sol把合約程式碼寫入並且部屬合約後 把合約地址和基金錢包的地址複製並寫入app.js裡的地方後
+打開 Remix IDE，將QuizPlatform.sol把合約程式碼寫入並且部署合約後 把合約地址和基金錢包的地址複製並寫入app.js裡的地方後
 開啟專案資料夾(gamified-learning)，在資料夾內開啟cmd輸入"npm start"即可開啟
